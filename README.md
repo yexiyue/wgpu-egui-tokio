@@ -159,6 +159,6 @@ impl Render for Simple {
 
 ```
 
-<video src="README.asserts/example.mp4"></video>
+![20250514171915_rec_](README.assets/20250514171915_rec_.gif)
 
 具体使用方法请参考项目中的 [`examples`](https://github.com/yexiyue/wgpu-egui-tokio/tree/main/examples/image-texture/src) 目录，该目录包含完整的代码示例，可作为实际开发的参考模板。
