@@ -1,4 +1,4 @@
-### Wgpu Egui Tokio 模板
+### Wgpu Egui Tokio 模版
 
 #### 项目简介  
 
