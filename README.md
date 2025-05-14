@@ -159,6 +159,6 @@ impl Render for Simple {
 
 ```
 
-<video src="../../Library/Containers/com.tencent.xinWeChat/Data/Library/Application%20Support/com.tencent.xinWeChat/2.0b4.0.9/d80bcca7a8f342b0eb9a5d3b3daaf217/Message/MessageTemp/7fe52a9d870f3c05819c47283e66b5b4/Video/13895_1747209395_raw.mp4"></video>
+<video src="README.asserts/example.mp4"></video>
 
 具体使用方法请参考项目中的 [`examples`](https://github.com/yexiyue/wgpu-egui-tokio/tree/main/examples/image-texture/src) 目录，该目录包含完整的代码示例，可作为实际开发的参考模板。
